@@ -1,0 +1,31 @@
+{
+    "Pricing":[
+        {
+            "id":1,
+            "title":"Free",
+            "price":"$0/month",
+            "description":"For small teams just getting started.",
+            "isFeatured":true,
+            "features":".Basic Support",
+            "dfeatures":".Get Instant Service at Your DoorStep."
+        },
+        {
+            "id":2,
+            "title":"Pro",
+            "price":"$19/month",
+            "description":"For small teams just getting started.",
+            "isFeatured":true,
+            "features":".pro Support",
+            "dfeatures":".Get Instant Service at Your DoorStep."
+        },
+        {
+            "id":3,
+            "title":"Premium",
+            "price":"$29/month",
+            "description":"For small teams just getting started.",
+            "isFeatured":true,
+            "features":".Bussiness Support",
+            "dfeatures":".Get Instant Service at Your DoorStep."
+        }
+    ]
+}
